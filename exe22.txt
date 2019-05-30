@@ -1,0 +1,27 @@
+# Exercise 22 : What do you know so far
+
+puts : used to display the ouput on the screen .It automatically move to next line at the end of arguments
+print : used to display the ouput on the screen .It does not automatically move to next line at the end of arguments
+# - command line starts with #.# are otherwise called as octothrope or pound characters
+#{} - performs expression substitutions , used to insert the character without any confusions
+_(underscore) - valid identifier,there is no duplicate name error
+% - string delimiters , it can appear string unescapped
+"" - string characters within the double  quotes
+\b - backspace
+\r - carriage returns
+\t - tab
+\n - newline
+\a - bell/alert
+""" - same as double quotes ,it allows the multiple line Strings
+gets.chomp - getting the input feom the user
+gets.chomp.to_i - getting the input from the user,it converts string into an integer
+ARGS - Argument variable or command line argument . This argument holds the argument you to pass when you run it
+$stdin - standard input from the user
+close - close the file
+open - open the file
+end - end the statement
+"w" - write the file , changes the file in written formatter
+"r" - reads the file
+def - definition is the keyword followed with method name
+*args - the args to the function ,put them in  a argument list
+seek(0) - this function will seek the posistion

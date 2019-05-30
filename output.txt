@@ -1,0 +1,289 @@
+# Exercise : 1
+
+PS C:\Users\Raman> cd desktop
+PS C:\Users\Raman\desktop> cd Assignments
+PS C:\Users\Raman\desktop\Assignments> ruby exe1.rb
+Hello world!
+Hello Again
+I like typing this.
+This is fun
+Yay! printing.
+I'd much rather you 'not'
+I "said" do not touch this.sdog1
+
+# Exercise : 2
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe2.rb
+I could have code like this
+This will run
+good # bye
+
+# Exercise : 3
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe3.rb
+I will now count my chickens:
+Hens 30
+Roosters 97
+Now I will count the eggs:
+7
+Is it true that 3+2<5-7
+false
+what is 3+2? 5
+what is 5-7?-2
+Oh, tht's why its false.
+How about somemore.
+Is it greater?true
+Is it greater or equal?true
+Is it less or equal?false
+
+# Exercise : 4
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe4.rb
+There are 100 cars are avaliable.
+There are only 30 drivers are avaliable.
+There will be 70 empty cars today.
+We can transport 120.0 people today.
+We have 90 to carpool today.
+We need to put about 3 in each car.
+
+# Exercise : 5
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe5.rb
+Lets talk aboutlavanya.s.
+She's144inches small.
+She's52pounds.
+Actually that's normal.
+She's got blackeyes and blackhair .
+She's teeth are usually white depending on the milk .
+If i add 22,144,52 I get 74
+
+# Exercise : 6
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe6.rb
+There are 10 types of people.
+Those who know binary and those who know don't.
+I said : There are 10 types of people..
+I also said : 'Those who know binary and those who know don't.'.
+Is n't that joke so funny?!false.
+This is the left side of .....a string with a right side.
+
+# Exercise : 7
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe7.rb
+Mary had a little lamb
+Its fleece was white as snow.
+And everywhere that mary went
+....................
+Rubylanguage
+
+# Exercise : 8
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe8.rb
+1 2 3 4
+one two three four
+true false true false
+%{first} %{second} %{third} %{fourth} %{first} %{second} %{third} %{fourth} %{first} %{second} %{third} %{fourth} %{first} %{second} %{third} %{fourth}
+I had this first thing. That you could up right. But it didn't sing. So I said good night.
+
+# Exercise : 9
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe9.rb
+Here are the days Mon tue wed thu fri sat sun
+Here are the months jan\nfeb\nmar\napr\nmay\njun\njul\naug
+
+There's something going on Here.
+With this weird quote
+We'll be able to type as much as we like.
+Even 4 lines if we want , or 5, or 6.
+
+Exercise : 10
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe10.rb
+        I'm tabbed in.
+I'm split
+on a line.
+I_m \a \ cat.
+
+I'll do a list:
+        * cat food
+        * Fishies
+        * Catnip
+        * Grass
+
+Exercise :11
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe11.rb
+How old are you?22
+How tall are you?144cm
+How much do you weigh?52
+So, you're 22old,144cmtall and 52heavy.
+
+Exercise : 12
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe12.rb
+Give me a number:20
+A bigger number is 2000
+.Give me a another number:200
+A smaller number is 2.
+
+Exercise : 13
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe13.rb
+Your first variable is :
+Your second variable is :
+Your third variable is :
+Your fourth variable is :
+Your fifth variable is :
+PS C:\Users\Raman\desktop\Assignments> ruby exe13.rb one two three four five
+Your first variable is : one
+Your second variable is : two
+Your third variable is : three
+Your fourth variable is : four
+Your fifth variable is : five
+
+Exercise : 14
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe14.rb lavanyasubramani
+Hi lavanyasubramani.
+I'd like to ask a few questions.
+ Do you like me lavanyasubramani.
+>
+yes
+Where do you live lavanyasubramani
+>
+chennai
+What kind of computer do you have?
+>
+lenevo
+
+Alright,so you said yes about liking me.
+you live in chennai. Not sure where that is.
+And you have a lenevo computer. Nice.
+
+Exercise : 15
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe15.rb exe15_sample.text
+Here's your file exe15_sample.text:
+I will get a job
+
+I have a dream
+
+My parents are my big support
+Type the file name again:exe15_sample.text
+I will get a job
+
+I have a dream
+
+My parents are my big support
+
+Exercise : 16
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe16.rb exe16test.text
+We're going to erase exe16test.text
+If you don't want that, hit CTRL-C (^C).
+If you do want that, hit RETURN.
+yes
+Opening the file...
+Truncating the file. Goodbye!
+Now I'm going to ask you for three lines.
+line1 : hello
+line2 : how are you
+line3 : iam fantastic
+Iam going to wite these to the file.
+And finally , we close it.
+
+Exercise : 17
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe17.rb exe17test1.txt
+copying from exe17test1.txt to
+The input file is 12 bytes long
+
+Exercise : 18
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe18.rb
+arg1: lavanya, arg2: subramani
+arg1 : lavanya, arg2 : subramani
+arg1 : First!
+I got nothing.
+
+Exercise : 19
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe19.rb
+ we can just give the function numbers directly:
+You have 20 cheeses !
+You have 30 boxes of crackers!
+Man that's enough for a party !
+Get a blanket.
+OR, we can use variables from the script:
+You have 10 cheeses !
+You have 50 boxes of crackers!
+Man that's enough for a party !
+Get a blanket.
+We cam combine two , variables and math:
+You have 30 cheeses !
+You have 11 boxes of crackers!
+Man that's enough for a party !
+Get a blanket.
+And we combine the two ,variables and math:
+You have 110 cheeses !
+You have 1050 boxes of crackers!
+Man that's enough for a party !
+Get a blanket.
+
+Exercise : 20
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe20.rb exe20test.txt
+First lets print the whole file:
+welcome back
+Iam a cool
+My inspirations are my parents
+Now lets rewind ,kind of like a tape.
+Let's print three lines:
+1,welcome back
+2,Iam a cool
+3,My inspirations are my parents
+
+Exercise : 21
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe21.rb
+Let's do some math with just functions!
+ADDING 30 + 5
+SUBTRACTING 78 - 4
+MULTIPLYING 90 * 2
+DIVIDING 100 / 2
+Age: 35, Height: 74, Weight: 180, IQ: 50
+Here is a puzzle.
+DIVIDING 50 / 2
+MULTIPLYING 180 * 25
+SUBTRACTING 74 - 4500
+ADDING 35 + -4426
+That becomes: -4391. Can you do it by hand?
+
+Exercise : 22
+
+Symbols and characters
+
+Exercise : 24
+
+PS C:\Users\Raman\desktop\Assignments> ruby exe24.rb
+Let's practise everythig.
+you'd need to know  'bout escapes with \ that do \n newlines and \t tabs.
+_ _ _ _ _ _ _ _
+
+
+        The lovely world
+with logic so firmly planted
+cannot discern
+ the needs of love
+nor comprehend passion from intuition
+and requires an explaination
+
+                where ther is none.
+
+_ _ _ _ _ _ _ _
+This should be five : 5
+With a starting point of: 10000
+ We'd have 5000000beans,5000, and 50crates.
+We can also do this way:
+ We'd have 500000 beans , 500 jars and 5 crates.
+PS C:\Users\Raman\desktop\Assignments>
